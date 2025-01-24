@@ -3,6 +3,7 @@ CREATE TABLE variete_the (
     nom VARCHAR(100) NOT NULL,
     occupation DECIMAL(5,2) NOT NULL,
     rendement DECIMAL(5,2) NOT NULL,
+    img VARCHAR(100) NOT NULL,
     prix_vente DECIMAL(10,2) NOT NULL
 );
 
