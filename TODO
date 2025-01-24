@@ -1,0 +1,61 @@
+To-Do List pour le Projet BOZAKA
+1. Préparation Initiale
+Créer un dépôt Git public pour le projet. OK
+
+Configurer un Google Sheet public pour la liste des tâches. OK
+
+Configurer l'environnement de développement local (PHP, MySQL) . OK
+
+Choisir un template Bootstrap ou créer un design personnalisé. 
+
+2. Base de Données
+Concevoir la structure de la base de données MySQL.
+
+Créer les scripts SQL pour la création des tables.
+
+Générer des données de test pour chaque table.
+
+Héberger la base de données sur le serveur de l'ITU.
+
+3. Backoffice (Admin)
+Créer la page de login admin avec un formulaire pré-rempli.
+
+Implémenter la gestion des variétés de thé (CRUD).
+
+Implémenter la gestion des parcelles (CRUD).
+
+Implémenter la gestion des cueilleurs (CRUD).
+
+Implémenter la gestion des catégories de dépenses (CRUD).
+
+Configurer le montant du salaire par kg pour les cueilleurs.
+
+Implémenter la configuration des mois de régénération du thé.
+
+Configurer le poids minimal journalier, les bonus et les malus.
+
+Ajouter le prix de vente par variété de thé.
+
+4. Frontoffice (Utilisateur)
+Créer la page de login utilisateur avec un formulaire pré-rempli.
+
+Implémenter la page de saisie des cueillettes avec validation AJAX.
+
+Implémenter la page de saisie des dépenses.
+
+Créer la page de résultat avec les calculs globaux.
+
+Implémenter la page de liste des paiements pour les cueilleurs.
+
+Ajouter la page de prévision avec validation AJAX.
+
+5. Tests et Déploiement
+Tester toutes les fonctionnalités (backoffice et frontoffice).
+
+Corriger les bugs et optimiser les performances.
+
+Déployer l'application sur le serveur de l'ITU.
+
+Vérifier que tous les liens (URL, scripts, Google Sheet, Git) sont accessibles.
+
+Ajouter les noms et numéros ETU des membres dans le footer.
